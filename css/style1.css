@@ -1,0 +1,21 @@
+.container{
+
+    color: black;
+    border: 7px gray solid;
+    font-family: arial;
+    font-size: 30px;
+    width: 700px;
+    padding: 15px;
+
+}
+
+.target{
+    color: white;
+    font-family: arial;
+    font-size: 30px;
+    background-color: purple;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    padding: 25px;
+}

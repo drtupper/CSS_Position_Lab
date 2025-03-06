@@ -1,0 +1,36 @@
+body {
+    font: 1.2em / 1.5 sans-serif;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
+  .container {
+    height: 400px;
+    padding: 0.5em;
+    border: 5px solid #ccc;
+    overflow: auto;
+  }
+  
+  .sidebar {
+    color: white;
+    background-color: #663398;
+    padding: 1em;
+    float: left;
+    width: 150px;
+  }
+  
+  .content {
+    padding: 1em;
+    margin-left: 160px;
+  }
+
+  .number {
+    text-align: center;
+    font-family: arial;
+    padding: 5px 0px;
+    background-color: lightgray;
+    border-radius: 5px;
+    width: 38px;
+    height: 38px;
+  }
