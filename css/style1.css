@@ -1,3 +1,4 @@
+
 .container{
 
     color: black;
@@ -18,4 +19,9 @@
     width: 150px;
     border-radius: 10px;
     padding: 25px;
+}
+
+a{
+    padding: 4px;
+    font: 1.2em / 1.5 sans-serif;
 }
